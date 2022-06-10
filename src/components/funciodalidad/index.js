@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './stylesF.css';
+
 import Indicador from '../indicador';
 const Funcionalidad = () => {
   
